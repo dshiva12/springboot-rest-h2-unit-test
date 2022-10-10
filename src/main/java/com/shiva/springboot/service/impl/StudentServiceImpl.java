@@ -1,6 +1,6 @@
 package com.shiva.springboot.service.impl;
 
-import com.shiva.springboot.controller.StudentRepository;
+import com.shiva.springboot.repository.StudentRepository;
 import com.shiva.springboot.domain.Student;
 import com.shiva.springboot.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;

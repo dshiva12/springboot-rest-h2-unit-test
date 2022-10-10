@@ -1,4 +1,4 @@
-package com.shiva.springboot.controller;
+package com.shiva.springboot.repository;
 
 import com.shiva.springboot.domain.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
